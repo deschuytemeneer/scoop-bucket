@@ -17,3 +17,9 @@ To install an app, do:
 ```ps1
 scoop install <app-name>
 ```
+
+## Apps
+
+|Name|Description|License|
+|----|-----------|-------|
+|[tagstudio](https://github.com/TagStudioDev/TagStudio)|A User-Focused Photo & File Management System|GPL-3.0-only|
